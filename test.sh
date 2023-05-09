@@ -1,1 +1,1 @@
-ps -ef | grep ^deepak 
+ps -ef | grep ^deepak | grep '.sh$'
